@@ -72,6 +72,6 @@ node app.js
 - Exclude node_modules/ from ZIP archives when sharing the project.
 
 👩‍💻 Author
-Challa.Venkata Naga Sai Varshitha
+Varshitha Challa
 AI Cavity Detection App (2025)
 Postgraduate in Artificial Intelligence, KL University.
